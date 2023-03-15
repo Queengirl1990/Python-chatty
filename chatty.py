@@ -5,9 +5,9 @@ zufallsantworten=["Oh, wirklich", "Interessant ...", "Das kann man so sehen", "I
 reaktionsantworten = {"essen": "Ich habe leider keinen Geschmackssinn",
                       "isst": "Ich habe leider keinen Geschmackssinn",
                       "wetter": "Ich liebe es wenn die Sonne auf mich scheint, ich darf aber keinen Sonnenbrand bekommen.",
-                      "filme": "Die auswahl an Filmen ist heutzutage unendlich groß"
-                      "buch" "Ich lese sehr viel über alles" 
-                        }
+                      "empfehlen": "Damit kenne ich mich leider nicht aus, nutze doch gerne google.",
+                      "filme": "Die auswahl an Filmen ist heutzutage unendlich groß",
+                      }
 
 print("Herzlich Willkommen bei deinem persönlichen Chatbot")
 print("Mein Name ist Chatty, lass uns zusammen etwas Spaß haben!")
